@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<button
+  disabled={true}
+  onClick={[Function]}
+  style={
+    Object {
+      "marginLeft": "4px",
+    }
+  }
+>
+  Active
+</button>
+`;
